@@ -9,7 +9,10 @@
   .bg-logo0 {
     display: inline-block;
     position: fixed;
+	/*
     background: #fff;
+	*/
+	background-color:black;
     color: #fff;
     width: 100%;
     height: 300;
